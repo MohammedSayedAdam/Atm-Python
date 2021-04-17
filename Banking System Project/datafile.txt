@@ -1,0 +1,16 @@
+1,Ali Ahmed Mohamed,1000.0
+2,Khalid Waleed Tamer,30000.0
+3,Norhan Said Mussa,25000.0
+4,Kamel Yasseen Hamid,5000.0
+5,Hany Ahmed Mabrook,38000.0
+6,Sama Mohamed Kamel,50000.0
+7,Omar Said Abdullah,12000.0
+8,Mohammed Sayed Adam,6500.0
+1,Ali Ahmed Mohamed,20000.0
+2,Khalid Waleed Tamer,30000.0
+3,Norhan Said Mussa,25000.0
+4,Kamel Yasseen Hamid,5000.0
+5,Hany Ahmed Mabrook,38000.0
+6,Sama Mohamed Kamel,50000.0
+7,Omar Said Abdullah,12000.0
+8,Mohammed Sayed Adam,6500.0
